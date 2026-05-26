@@ -9,7 +9,7 @@ trial areas exhibit distinct casualty patterns.
 ## Research Question
 
 Do pedestrian and cyclist road casualties disproportionately affect residents of 
-deprived urban neighbourhoods in England — and does e-scooter involvement amplify 
+deprived urban neighbourhoods in England and does e-scooter involvement amplify 
 this inequality?
 
 ---
